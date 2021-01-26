@@ -36,7 +36,7 @@ Documentation:
 
   3-)Now take this zipped file and unzip it wherever you want to save it in your computer.
 
-  4-) After unzipping, two files will appear. First will be the folder containg sprites for the game. Second will be the sound effects used in the game and finally there will be         main source code in the form of a python file.
+  4-) After unzipping, two files will appear. First will be the folder containg sprites for the game. Second will be the sound effects used in the game and finally there will be       main source code in the form of a python file.
       (Note: All these files are important. If any of these files are deleted, you have to download them again otherwise your game will not run.)
 
   5-) Finally, open the .py file conrtaining source code and run the code.
