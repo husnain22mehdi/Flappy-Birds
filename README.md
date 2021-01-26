@@ -26,7 +26,8 @@ Features:
   7-) Sound Effects
 
 Technical Architecture:
-  archtecture_diagram.png
+  ![architecture diagram](https://user-images.githubusercontent.com/77991008/105828433-f145d580-5fe4-11eb-867e-386436bdf0c6.jpeg)
+
  
 Documentation:
   1-) To play this game first of all you have install python on your device. 
